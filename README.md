@@ -2,8 +2,6 @@
 <h1 align="center">Hi, I'm Camilla</h1>
 <h3 align="center">Fullstack Web Developer Student</h3>
 
-<img align="right" alt="coding" width="300" src="https://media2.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif?cid=6c09b952mgjef89o3cjpozerv49y815edc4gl2d1777xl7tr&ep=v1_stickers_related&rid=giphy.gif&ct=s">
-
 📫 How to reach me **camillagustafsson.89@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
